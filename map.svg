@@ -4596,7 +4596,6 @@
             </g>
         </g>
     </g>
-    <rect id="closed-filter" x="0" y="0" width="5680" height="4120" style="fill-opacity: 0.16;" />
     <defs>
         <linearGradient id="_Linear21" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5680,0,0,4120,46.2691,2069.63)">
             <stop offset="0" style="stop-color: #fff; stop-opacity: 1;" />

@@ -31,11 +31,11 @@
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="floor-3" />
+   inkscape:current-layer="svg2091" />
     <g
    class="floor"
    id="floor-1"
-   style="display:none">
+   style="display:inline">
         <g
    class="background"
    id="g1">
@@ -264,312 +264,7 @@
    style="fill:none;stroke:#b7b7b7;stroke-width:2px;stroke-opacity:0" />
             </g>
         </g>
-        <g
-   class="study_rooms"
-   id="g89">
-            <g
-   id="study-61355">
-                <rect
-   class="study_fill"
-   x="2604.25"
-   y="2862.47"
-   width="215.302"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:10.27px;stroke-opacity:0"
-   id="rect43" />
-                <rect
-   x="2604.25"
-   y="2862.47"
-   width="215.302"
-   height="219.688"
-   style="fill:#a1a9b9"
-   id="rect44" />
-                <clipPath
-   id="_clip3"><rect
-     x="2604.25"
-     y="2862.47"
-     width="215.302"
-     height="219.688"
-     id="rect45" /></clipPath>
-                <g
-   clip-path="url(#_clip3)"
-   id="g59">
-                    <g
-   class="open-lines"
-   id="g51">
-                        <path
-   d="m 2642.05,2616.34 394.016,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path45" />
-                        <path
-   d="m 2585.27,2669.38 386.361,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path46" />
-                        <path
-   d="m 2533.31,2725.09 394.016,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path47" />
-                        <path
-   d="m 2477.6,2777.05 387.443,387.443"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path48" />
-                        <path
-   d="m 2425.64,2832.76 394.016,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path49" />
-                        <path
-   d="m 2369.93,2884.72 386.361,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path50" />
-                        <path
-   d="m 2317.97,2940.42 394.016,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path51" />
-                    </g>
-                    <g
-   class="closed-lines"
-   id="g58">
-                        <path
-   d="m 2838.6,2779.91 2.936,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path52" />
-                        <path
-   d="m 2783.33,2778.59 2.878,348.447"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path53" />
-                        <path
-   d="m 2729.18,2780.64 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path54" />
-                        <path
-   d="m 2675,2779.31 2.886,349.423"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path55" />
-                        <path
-   d="m 2620.84,2781.36 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path56" />
-                        <path
-   d="m 2566.66,2780.03 2.878,348.447"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path57" />
-                        <path
-   d="m 2512.51,2782.08 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path58" />
-                    </g>
-                </g>
-                <rect
-   class="study_err"
-   x="2595.23"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0"
-   id="rect59" />
-                <rect
-   x="2595.23"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:#c8c8c8"
-   id="rect60" />
-                <clipPath
-   id="_clip4"><rect
-     x="2595.23"
-     y="2861.8501"
-     width="233.843"
-     height="219.688"
-     id="rect61" /></clipPath>
-                <g
-   clip-path="url(#_clip4)"
-   id="g67">
-                    <g
-   id="lines2"
-   class="lines">
-                        <path
-   d="m 2890.61,2529.69 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path61" />
-                        <path
-   d="m 2875.29,2663.03 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path62" />
-                        <path
-   d="m 3005.09,2644.17 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path63" />
-                        <path
-   d="m 2983.49,2771.23 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path64" />
-                        <path
-   d="m 3111.27,2750.35 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path65" />
-                        <path
-   d="m 3091.52,2879.27 -553.844,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path66" />
-                        <path
-   d="m 3219.78,2858.87 -553.844,553.844"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path67" />
-                    </g>
-                </g>
-            </g>
-            <g
-   id="study-36128">
-                <rect
-   id="study_fill1"
-   class="study_fill"
-   x="2359.3201"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
-                <rect
-   x="2359.3201"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill:#a1a9b9"
-   id="rect67" />
-                <clipPath
-   id="_clip5"><rect
-     x="2359.3201"
-     y="2859.99"
-     width="233.843"
-     height="219.688"
-     id="rect68" /></clipPath>
-                <g
-   clip-path="url(#_clip5)"
-   id="g81">
-                    <g
-   id="open-lines1"
-   class="open-lines">
-                        <path
-   d="m 2415.29,2631.23 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path68" />
-                        <path
-   d="m 2358.51,2684.28 386.36,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path69" />
-                        <path
-   d="m 2306.54,2739.98 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path70" />
-                        <path
-   d="m 2250.84,2791.94 387.443,387.443"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path71" />
-                        <path
-   d="m 2198.88,2847.65 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path72" />
-                        <path
-   d="m 2143.17,2899.61 386.361,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path73" />
-                        <path
-   d="m 2091.21,2955.32 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path74" />
-                    </g>
-                    <g
-   id="closed-lines1"
-   class="closed-lines">
-                        <path
-   d="m 2611.84,2794.81 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path75" />
-                        <path
-   d="m 2556.57,2793.49 2.878,348.447"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path76" />
-                        <path
-   d="m 2502.41,2795.53 2.936,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path77" />
-                        <path
-   d="m 2448.23,2794.21 2.886,349.423"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path78" />
-                        <path
-   d="m 2394.08,2796.25 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path79" />
-                        <path
-   d="m 2339.9,2794.92 2.879,348.448"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path80" />
-                        <path
-   d="m 2285.74,2796.97 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path81" />
-                    </g>
-                </g>
-                <rect
-   id="study_err1"
-   class="study_err"
-   x="2363.8899"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
-                <rect
-   x="2363.8899"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:#c8c8c8"
-   id="rect81" />
-                <clipPath
-   id="_clip6"><rect
-     x="2363.8899"
-     y="2861.8501"
-     width="233.843"
-     height="219.688"
-     id="rect82" /></clipPath>
-                <g
-   clip-path="url(#_clip6)"
-   id="g88">
-                    <g
-   id="lines3"
-   class="lines">
-                        <path
-   d="m 2659.26,2529.69 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path82" />
-                        <path
-   d="m 2643.95,2663.03 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path83" />
-                        <path
-   d="m 2773.74,2644.17 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path84" />
-                        <path
-   d="m 2752.15,2771.23 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path85" />
-                        <path
-   d="m 2879.93,2750.35 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path86" />
-                        <path
-   d="m 2860.18,2879.27 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path87" />
-                        <path
-   d="m 2988.44,2858.87 -553.844,553.844"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path88" />
-                    </g>
-                </g>
-            </g>
-        </g>
+        
         <g
    class="rooms"
    id="g118">
@@ -9250,7 +8945,7 @@
     <g
    class="floor"
    id="floor-3"
-   style="display:inline"
+   style="display:none"
    inkscape:label="floor-3">
         <rect
    id="transition2"
@@ -10613,7 +10308,7 @@
     <g
    id="study_rooms4"
    class="study_rooms"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;display:inline">
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
             <g
    id="study-56393">
                 <rect
@@ -11069,7 +10764,7 @@
             </g>
         <g
    id="study-36128-0"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;display:inline"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
    transform="matrix(0.76434215,0,0,0.56343765,1661.5193,-217.75475)"
    inkscape:label="study-237432">
                 <rect

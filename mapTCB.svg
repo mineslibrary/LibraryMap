@@ -9244,7 +9244,8 @@
     </g>
     <g
    class="floor"
-   id="floor-3">
+   id="floor-3"
+   inkscape:label="floor-3">
         <rect
    id="transition2"
    class="transition"
@@ -9358,6 +9359,615 @@
    class="space_fill"
    d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82"
    style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;" />
+            </g>
+        </g><g
+   id="study_rooms4"
+   class="study_rooms"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
+            <g
+   id="study-56393">
+                <rect
+   id="study_fill9"
+   class="study_fill"
+   x="2604.25"
+   y="2862.47"
+   width="215.302"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
+                <rect
+   x="2604.25"
+   y="2862.47"
+   width="215.302"
+   height="219.688"
+   style="fill: #a1a9b9;"
+   id="rect1778" />
+                <clipPath
+   id="_clip50"><rect
+     x="2604.25"
+     y="2862.47"
+     width="215.302"
+     height="219.688"
+     id="rect1779" /></clipPath>
+                <g
+   clip-path="url(#_clip50)"
+   id="g1792">
+                    <g
+   id="open-lines9"
+   class="open-lines">
+                        <path
+   d="M2642.05,2616.34l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1779" />
+                        <path
+   d="M2585.27,2669.38l386.361,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1780" />
+                        <path
+   d="M2533.31,2725.09l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1781" />
+                        <path
+   d="M2477.6,2777.05l387.443,387.443"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1782" />
+                        <path
+   d="M2425.64,2832.76l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1783" />
+                        <path
+   d="M2369.93,2884.72l386.361,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1784" />
+                        <path
+   d="M2317.97,2940.42l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1785" />
+                    </g>
+                    <g
+   id="closed-lines9"
+   class="closed-lines">
+                        <path
+   d="M2838.6,2779.91l2.936,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1786" />
+                        <path
+   d="M2783.33,2778.59l2.878,348.447"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1787" />
+                        <path
+   d="M2729.18,2780.64l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1788" />
+                        <path
+   d="M2675,2779.31l2.886,349.423"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1789" />
+                        <path
+   d="M2620.84,2781.36l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1790" />
+                        <path
+   d="M2566.66,2780.03l2.878,348.447"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1791" />
+                        <path
+   d="M2512.51,2782.08l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1792" />
+                    </g>
+                </g>
+                <rect
+   id="study_err9"
+   class="study_err"
+   x="2597.73"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect
+   x="2597.73"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill: #c8c8c8;"
+   id="rect1792" />
+                <clipPath
+   id="_clip51"><rect
+     x="2597.73"
+     y="2859.99"
+     width="233.843"
+     height="219.688"
+     id="rect1793" /></clipPath>
+                <g
+   clip-path="url(#_clip51)"
+   id="g1799">
+                    <g
+   id="lines18"
+   class="lines">
+                        <path
+   d="M2893.11,2527.82l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1793" />
+                        <path
+   d="M2877.79,2661.17l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1794" />
+                        <path
+   d="M3007.59,2642.3l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1795" />
+                        <path
+   d="M2985.99,2769.37l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1796" />
+                        <path
+   d="M3113.77,2748.49l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1797" />
+                        <path
+   d="M3094.03,2877.4l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1798" />
+                        <path
+   d="M3222.29,2857l-553.844,553.844"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1799" />
+                    </g>
+                </g>
+            </g>
+            <g
+   id="study-36134">
+                <rect
+   id="study_fill10"
+   class="study_fill"
+   x="2816.28"
+   y="2862.47"
+   width="208.644"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
+                <rect
+   x="2816.28"
+   y="2862.47"
+   width="208.644"
+   height="219.688"
+   style="fill: #a1a9b9;"
+   id="rect1799" />
+                <clipPath
+   id="_clip52"><rect
+     x="2816.28"
+     y="2862.47"
+     width="208.644"
+     height="219.688"
+     id="rect1800" /></clipPath>
+                <g
+   clip-path="url(#_clip52)"
+   id="g1813">
+                    <g
+   id="open-lines10"
+   class="open-lines">
+                        <path
+   d="M2854.09,2616.34l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1800" />
+                        <path
+   d="M2797.3,2669.38l386.361,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1801" />
+                        <path
+   d="M2745.34,2725.09l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1802" />
+                        <path
+   d="M2689.63,2777.05l387.443,387.443"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1803" />
+                        <path
+   d="M2637.67,2832.76l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1804" />
+                        <path
+   d="M2581.97,2884.72l386.361,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1805" />
+                        <path
+   d="M2530,2940.42l394.016,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1806" />
+                    </g>
+                    <g
+   id="closed-lines10"
+   class="closed-lines">
+                        <path
+   d="M3050.63,2779.91l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1807" />
+                        <path
+   d="M2995.36,2778.59l2.878,348.447"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1808" />
+                        <path
+   d="M2941.21,2780.64l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1809" />
+                        <path
+   d="M2887.03,2779.31l2.886,349.423"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1810" />
+                        <path
+   d="M2832.87,2781.36l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1811" />
+                        <path
+   d="M2778.69,2780.03l2.878,348.447"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1812" />
+                        <path
+   d="M2724.54,2782.08l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1813" />
+                    </g>
+                </g>
+                <rect
+   id="study_err10"
+   class="study_err"
+   x="2819.55"
+   y="2859.99"
+   width="205.212"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 9.87px;" />
+                <rect
+   x="2819.55"
+   y="2859.99"
+   width="205.212"
+   height="219.688"
+   style="fill: #c8c8c8;"
+   id="rect1813" />
+                <clipPath
+   id="_clip53"><rect
+     x="2819.55"
+     y="2859.99"
+     width="205.212"
+     height="219.688"
+     id="rect1814" /></clipPath>
+                <g
+   clip-path="url(#_clip53)"
+   id="g1820">
+                    <g
+   id="lines19"
+   class="lines">
+                        <path
+   d="M3114.93,2527.82l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1814" />
+                        <path
+   d="M3099.61,2661.17l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1815" />
+                        <path
+   d="M3229.41,2642.3l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1816" />
+                        <path
+   d="M3207.81,2769.37l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1817" />
+                        <path
+   d="M3335.59,2748.49l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1818" />
+                        <path
+   d="M3315.85,2877.4l-553.844,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1819" />
+                        <path
+   d="M3444.1,2857l-553.843,553.844"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1820" />
+                    </g>
+                </g>
+            </g>
+            <g
+   id="study-55808">
+                <rect
+   id="study_fill11"
+   class="study_fill"
+   x="2359.32"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect
+   x="2359.32"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill: #a1a9b9;"
+   id="rect1820" />
+                <clipPath
+   id="_clip54"><rect
+     x="2359.32"
+     y="2859.99"
+     width="233.843"
+     height="219.688"
+     id="rect1821" /></clipPath>
+                <g
+   clip-path="url(#_clip54)"
+   id="g1834">
+                    <g
+   id="open-lines11"
+   class="open-lines">
+                        <path
+   d="M2415.29,2631.23l394.017,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1821" />
+                        <path
+   d="M2358.51,2684.28l386.36,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1822" />
+                        <path
+   d="M2306.54,2739.98l394.017,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1823" />
+                        <path
+   d="M2250.84,2791.94l387.443,387.443"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1824" />
+                        <path
+   d="M2198.88,2847.65l394.017,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1825" />
+                        <path
+   d="M2143.17,2899.61l386.361,386.361"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1826" />
+                        <path
+   d="M2091.21,2955.32l394.017,394.017"
+   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
+   id="path1827" />
+                    </g>
+                    <g
+   id="closed-lines11"
+   class="closed-lines">
+                        <path
+   d="M2611.84,2794.81l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1828" />
+                        <path
+   d="M2556.57,2793.49l2.878,348.447"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1829" />
+                        <path
+   d="M2502.41,2795.53l2.936,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1830" />
+                        <path
+   d="M2448.23,2794.21l2.886,349.423"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1831" />
+                        <path
+   d="M2394.08,2796.25l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1832" />
+                        <path
+   d="M2339.9,2794.92l2.879,348.448"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1833" />
+                        <path
+   d="M2285.74,2796.97l2.935,355.352"
+   style="fill: none; stroke: #df8058; stroke-width: 29px;"
+   id="path1834" />
+                    </g>
+                </g>
+                <rect
+   id="study_err11"
+   class="study_err"
+   x="2363.89"
+   y="2861.85"
+   width="233.843"
+   height="219.688"
+   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect
+   x="2363.89"
+   y="2861.85"
+   width="233.843"
+   height="219.688"
+   style="fill: #c8c8c8;"
+   id="rect1834" />
+                <clipPath
+   id="_clip55"><rect
+     x="2363.89"
+     y="2861.85"
+     width="233.843"
+     height="219.688"
+     id="rect1835" /></clipPath>
+                <g
+   clip-path="url(#_clip55)"
+   id="g1841">
+                    <g
+   id="lines20"
+   class="lines">
+                        <path
+   d="M2659.26,2529.69l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1835" />
+                        <path
+   d="M2643.95,2663.03l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1836" />
+                        <path
+   d="M2773.74,2644.17l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1837" />
+                        <path
+   d="M2752.15,2771.23l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1838" />
+                        <path
+   d="M2879.93,2750.35l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1839" />
+                        <path
+   d="M2860.18,2879.27l-553.843,553.843"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1840" />
+                        <path
+   d="M2988.44,2858.87l-553.844,553.844"
+   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+   id="path1841" />
+                    </g>
+                </g>
+            </g><g
+   id="study-55808-0-7-2-4"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
+   transform="matrix(0.72149526,0,0,0.63236855,1767.7943,-428.26628)">
+                <rect
+   id="study_fill11-6-4-7-5"
+   class="study_fill"
+   x="2359.3201"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
+                <rect
+   x="2359.3201"
+   y="2859.99"
+   width="233.843"
+   height="219.688"
+   style="fill:#a1a9b9"
+   id="rect1820-0-2-7-2" />
+                <clipPath
+   id="clipPath1-6-3-0"><rect
+     x="2359.3201"
+     y="2859.99"
+     width="233.843"
+     height="219.688"
+     id="rect1-3-3-8" /></clipPath>
+                <g
+   clip-path="url(#_clip54-8-4-0-2)"
+   id="g1834-4-6-4-2">
+                    <g
+   id="open-lines11-4-4-4-2"
+   class="open-lines">
+                        <path
+   d="m 2415.29,2631.23 394.017,394.017"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1821-0-0-7-2" />
+                        <path
+   d="m 2358.51,2684.28 386.36,386.361"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1822-7-3-8-9" />
+                        <path
+   d="m 2306.54,2739.98 394.017,394.017"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1823-9-9-5-2" />
+                        <path
+   d="m 2250.84,2791.94 387.443,387.443"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1824-0-2-5-2" />
+                        <path
+   d="m 2198.88,2847.65 394.017,394.017"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1825-2-0-5-0" />
+                        <path
+   d="m 2143.17,2899.61 386.361,386.361"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1826-9-7-6-7" />
+                        <path
+   d="m 2091.21,2955.32 394.017,394.017"
+   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
+   id="path1827-2-6-4-4" />
+                    </g>
+                    <g
+   id="closed-lines11-6-4-0-6"
+   class="closed-lines">
+                        <path
+   d="m 2611.84,2794.81 2.935,355.352"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1828-4-8-6-6" />
+                        <path
+   d="m 2556.57,2793.49 2.878,348.447"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1829-6-6-2-2" />
+                        <path
+   d="m 2502.41,2795.53 2.936,355.352"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1830-2-2-3-2" />
+                        <path
+   d="m 2448.23,2794.21 2.886,349.423"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1831-9-4-6-5" />
+                        <path
+   d="m 2394.08,2796.25 2.935,355.352"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1832-2-1-7-5" />
+                        <path
+   d="m 2339.9,2794.92 2.879,348.448"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1833-2-9-6-5" />
+                        <path
+   d="m 2285.74,2796.97 2.935,355.352"
+   style="fill:none;stroke:#df8058;stroke-width:29px"
+   id="path1834-6-6-3-9" />
+                    </g>
+                </g>
+                <rect
+   id="study_err11-8-0-8-3"
+   class="study_err"
+   x="2363.8899"
+   y="2861.8501"
+   width="233.843"
+   height="219.688"
+   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
+                <rect
+   x="2363.8899"
+   y="2861.8501"
+   width="233.843"
+   height="219.688"
+   style="fill:#c8c8c8"
+   id="rect1834-4-4-1-5" />
+                <clipPath
+   id="clipPath2-0-8-3"><rect
+     x="2363.8899"
+     y="2861.8501"
+     width="233.843"
+     height="219.688"
+     id="rect2-0-1-7" /></clipPath>
+                <g
+   clip-path="url(#_clip55-2-3-1-5)"
+   id="g1841-5-7-4-8">
+                    <g
+   id="lines20-8-3-6-0"
+   class="lines">
+                        <path
+   d="m 2659.26,2529.69 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1835-3-1-4-0" />
+                        <path
+   d="m 2643.95,2663.03 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1836-2-5-3-1" />
+                        <path
+   d="m 2773.74,2644.17 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1837-6-6-8-3" />
+                        <path
+   d="m 2752.15,2771.23 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1838-8-5-0-6" />
+                        <path
+   d="m 2879.93,2750.35 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1839-5-0-6-0" />
+                        <path
+   d="m 2860.18,2879.27 -553.843,553.843"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1840-3-7-8-0" />
+                        <path
+   d="m 2988.44,2858.87 -553.844,553.844"
+   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
+   id="path1841-2-6-5-8" />
+                    </g>
+                </g>
             </g>
         </g>
         
@@ -10603,615 +11213,6 @@
             
             
             
-        </g><g
-   id="study_rooms4"
-   class="study_rooms"
-   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5">
-            <g
-   id="study-56393">
-                <rect
-   id="study_fill9"
-   class="study_fill"
-   x="2604.25"
-   y="2862.47"
-   width="215.302"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
-                <rect
-   x="2604.25"
-   y="2862.47"
-   width="215.302"
-   height="219.688"
-   style="fill: #a1a9b9;"
-   id="rect1778" />
-                <clipPath
-   id="_clip50"><rect
-     x="2604.25"
-     y="2862.47"
-     width="215.302"
-     height="219.688"
-     id="rect1779" /></clipPath>
-                <g
-   clip-path="url(#_clip50)"
-   id="g1792">
-                    <g
-   id="open-lines9"
-   class="open-lines">
-                        <path
-   d="M2642.05,2616.34l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1779" />
-                        <path
-   d="M2585.27,2669.38l386.361,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1780" />
-                        <path
-   d="M2533.31,2725.09l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1781" />
-                        <path
-   d="M2477.6,2777.05l387.443,387.443"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1782" />
-                        <path
-   d="M2425.64,2832.76l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1783" />
-                        <path
-   d="M2369.93,2884.72l386.361,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1784" />
-                        <path
-   d="M2317.97,2940.42l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1785" />
-                    </g>
-                    <g
-   id="closed-lines9"
-   class="closed-lines">
-                        <path
-   d="M2838.6,2779.91l2.936,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1786" />
-                        <path
-   d="M2783.33,2778.59l2.878,348.447"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1787" />
-                        <path
-   d="M2729.18,2780.64l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1788" />
-                        <path
-   d="M2675,2779.31l2.886,349.423"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1789" />
-                        <path
-   d="M2620.84,2781.36l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1790" />
-                        <path
-   d="M2566.66,2780.03l2.878,348.447"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1791" />
-                        <path
-   d="M2512.51,2782.08l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1792" />
-                    </g>
-                </g>
-                <rect
-   id="study_err9"
-   class="study_err"
-   x="2597.73"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect
-   x="2597.73"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill: #c8c8c8;"
-   id="rect1792" />
-                <clipPath
-   id="_clip51"><rect
-     x="2597.73"
-     y="2859.99"
-     width="233.843"
-     height="219.688"
-     id="rect1793" /></clipPath>
-                <g
-   clip-path="url(#_clip51)"
-   id="g1799">
-                    <g
-   id="lines18"
-   class="lines">
-                        <path
-   d="M2893.11,2527.82l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1793" />
-                        <path
-   d="M2877.79,2661.17l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1794" />
-                        <path
-   d="M3007.59,2642.3l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1795" />
-                        <path
-   d="M2985.99,2769.37l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1796" />
-                        <path
-   d="M3113.77,2748.49l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1797" />
-                        <path
-   d="M3094.03,2877.4l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1798" />
-                        <path
-   d="M3222.29,2857l-553.844,553.844"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1799" />
-                    </g>
-                </g>
-            </g>
-            <g
-   id="study-36134">
-                <rect
-   id="study_fill10"
-   class="study_fill"
-   x="2816.28"
-   y="2862.47"
-   width="208.644"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
-                <rect
-   x="2816.28"
-   y="2862.47"
-   width="208.644"
-   height="219.688"
-   style="fill: #a1a9b9;"
-   id="rect1799" />
-                <clipPath
-   id="_clip52"><rect
-     x="2816.28"
-     y="2862.47"
-     width="208.644"
-     height="219.688"
-     id="rect1800" /></clipPath>
-                <g
-   clip-path="url(#_clip52)"
-   id="g1813">
-                    <g
-   id="open-lines10"
-   class="open-lines">
-                        <path
-   d="M2854.09,2616.34l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1800" />
-                        <path
-   d="M2797.3,2669.38l386.361,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1801" />
-                        <path
-   d="M2745.34,2725.09l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1802" />
-                        <path
-   d="M2689.63,2777.05l387.443,387.443"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1803" />
-                        <path
-   d="M2637.67,2832.76l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1804" />
-                        <path
-   d="M2581.97,2884.72l386.361,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1805" />
-                        <path
-   d="M2530,2940.42l394.016,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1806" />
-                    </g>
-                    <g
-   id="closed-lines10"
-   class="closed-lines">
-                        <path
-   d="M3050.63,2779.91l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1807" />
-                        <path
-   d="M2995.36,2778.59l2.878,348.447"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1808" />
-                        <path
-   d="M2941.21,2780.64l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1809" />
-                        <path
-   d="M2887.03,2779.31l2.886,349.423"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1810" />
-                        <path
-   d="M2832.87,2781.36l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1811" />
-                        <path
-   d="M2778.69,2780.03l2.878,348.447"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1812" />
-                        <path
-   d="M2724.54,2782.08l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1813" />
-                    </g>
-                </g>
-                <rect
-   id="study_err10"
-   class="study_err"
-   x="2819.55"
-   y="2859.99"
-   width="205.212"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 9.87px;" />
-                <rect
-   x="2819.55"
-   y="2859.99"
-   width="205.212"
-   height="219.688"
-   style="fill: #c8c8c8;"
-   id="rect1813" />
-                <clipPath
-   id="_clip53"><rect
-     x="2819.55"
-     y="2859.99"
-     width="205.212"
-     height="219.688"
-     id="rect1814" /></clipPath>
-                <g
-   clip-path="url(#_clip53)"
-   id="g1820">
-                    <g
-   id="lines19"
-   class="lines">
-                        <path
-   d="M3114.93,2527.82l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1814" />
-                        <path
-   d="M3099.61,2661.17l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1815" />
-                        <path
-   d="M3229.41,2642.3l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1816" />
-                        <path
-   d="M3207.81,2769.37l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1817" />
-                        <path
-   d="M3335.59,2748.49l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1818" />
-                        <path
-   d="M3315.85,2877.4l-553.844,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1819" />
-                        <path
-   d="M3444.1,2857l-553.843,553.844"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1820" />
-                    </g>
-                </g>
-            </g>
-            <g
-   id="study-55808">
-                <rect
-   id="study_fill11"
-   class="study_fill"
-   x="2359.32"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect
-   x="2359.32"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill: #a1a9b9;"
-   id="rect1820" />
-                <clipPath
-   id="_clip54"><rect
-     x="2359.32"
-     y="2859.99"
-     width="233.843"
-     height="219.688"
-     id="rect1821" /></clipPath>
-                <g
-   clip-path="url(#_clip54)"
-   id="g1834">
-                    <g
-   id="open-lines11"
-   class="open-lines">
-                        <path
-   d="M2415.29,2631.23l394.017,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1821" />
-                        <path
-   d="M2358.51,2684.28l386.36,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1822" />
-                        <path
-   d="M2306.54,2739.98l394.017,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1823" />
-                        <path
-   d="M2250.84,2791.94l387.443,387.443"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1824" />
-                        <path
-   d="M2198.88,2847.65l394.017,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1825" />
-                        <path
-   d="M2143.17,2899.61l386.361,386.361"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1826" />
-                        <path
-   d="M2091.21,2955.32l394.017,394.017"
-   style="fill: none; stroke: #19bd68; stroke-width: 28.97px;"
-   id="path1827" />
-                    </g>
-                    <g
-   id="closed-lines11"
-   class="closed-lines">
-                        <path
-   d="M2611.84,2794.81l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1828" />
-                        <path
-   d="M2556.57,2793.49l2.878,348.447"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1829" />
-                        <path
-   d="M2502.41,2795.53l2.936,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1830" />
-                        <path
-   d="M2448.23,2794.21l2.886,349.423"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1831" />
-                        <path
-   d="M2394.08,2796.25l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1832" />
-                        <path
-   d="M2339.9,2794.92l2.879,348.448"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1833" />
-                        <path
-   d="M2285.74,2796.97l2.935,355.352"
-   style="fill: none; stroke: #df8058; stroke-width: 29px;"
-   id="path1834" />
-                    </g>
-                </g>
-                <rect
-   id="study_err11"
-   class="study_err"
-   x="2363.89"
-   y="2861.85"
-   width="233.843"
-   height="219.688"
-   style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect
-   x="2363.89"
-   y="2861.85"
-   width="233.843"
-   height="219.688"
-   style="fill: #c8c8c8;"
-   id="rect1834" />
-                <clipPath
-   id="_clip55"><rect
-     x="2363.89"
-     y="2861.85"
-     width="233.843"
-     height="219.688"
-     id="rect1835" /></clipPath>
-                <g
-   clip-path="url(#_clip55)"
-   id="g1841">
-                    <g
-   id="lines20"
-   class="lines">
-                        <path
-   d="M2659.26,2529.69l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1835" />
-                        <path
-   d="M2643.95,2663.03l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1836" />
-                        <path
-   d="M2773.74,2644.17l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1837" />
-                        <path
-   d="M2752.15,2771.23l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1838" />
-                        <path
-   d="M2879.93,2750.35l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1839" />
-                        <path
-   d="M2860.18,2879.27l-553.843,553.843"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1840" />
-                        <path
-   d="M2988.44,2858.87l-553.844,553.844"
-   style="fill: none; stroke: #e6e8ec; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
-   id="path1841" />
-                    </g>
-                </g>
-            </g><g
-   id="study-55808-0-7-2-4"
-   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5"
-   transform="matrix(0.72149526,0,0,0.63236855,1767.7943,-428.26628)">
-                <rect
-   id="study_fill11-6-4-7-5"
-   class="study_fill"
-   x="2359.3201"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
-                <rect
-   x="2359.3201"
-   y="2859.99"
-   width="233.843"
-   height="219.688"
-   style="fill:#a1a9b9"
-   id="rect1820-0-2-7-2" />
-                <clipPath
-   id="clipPath1-6-3-0"><rect
-     x="2359.3201"
-     y="2859.99"
-     width="233.843"
-     height="219.688"
-     id="rect1-3-3-8" /></clipPath>
-                <g
-   clip-path="url(#_clip54-8-4-0-2)"
-   id="g1834-4-6-4-2">
-                    <g
-   id="open-lines11-4-4-4-2"
-   class="open-lines">
-                        <path
-   d="m 2415.29,2631.23 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1821-0-0-7-2" />
-                        <path
-   d="m 2358.51,2684.28 386.36,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1822-7-3-8-9" />
-                        <path
-   d="m 2306.54,2739.98 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1823-9-9-5-2" />
-                        <path
-   d="m 2250.84,2791.94 387.443,387.443"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1824-0-2-5-2" />
-                        <path
-   d="m 2198.88,2847.65 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1825-2-0-5-0" />
-                        <path
-   d="m 2143.17,2899.61 386.361,386.361"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1826-9-7-6-7" />
-                        <path
-   d="m 2091.21,2955.32 394.017,394.017"
-   style="fill:none;stroke:#19bd68;stroke-width:28.97px"
-   id="path1827-2-6-4-4" />
-                    </g>
-                    <g
-   id="closed-lines11-6-4-0-6"
-   class="closed-lines">
-                        <path
-   d="m 2611.84,2794.81 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1828-4-8-6-6" />
-                        <path
-   d="m 2556.57,2793.49 2.878,348.447"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1829-6-6-2-2" />
-                        <path
-   d="m 2502.41,2795.53 2.936,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1830-2-2-3-2" />
-                        <path
-   d="m 2448.23,2794.21 2.886,349.423"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1831-9-4-6-5" />
-                        <path
-   d="m 2394.08,2796.25 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1832-2-1-7-5" />
-                        <path
-   d="m 2339.9,2794.92 2.879,348.448"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1833-2-9-6-5" />
-                        <path
-   d="m 2285.74,2796.97 2.935,355.352"
-   style="fill:none;stroke:#df8058;stroke-width:29px"
-   id="path1834-6-6-3-9" />
-                    </g>
-                </g>
-                <rect
-   id="study_err11-8-0-8-3"
-   class="study_err"
-   x="2363.8899"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:none;stroke:#ff6000;stroke-width:11.02px;stroke-opacity:0" />
-                <rect
-   x="2363.8899"
-   y="2861.8501"
-   width="233.843"
-   height="219.688"
-   style="fill:#c8c8c8"
-   id="rect1834-4-4-1-5" />
-                <clipPath
-   id="clipPath2-0-8-3"><rect
-     x="2363.8899"
-     y="2861.8501"
-     width="233.843"
-     height="219.688"
-     id="rect2-0-1-7" /></clipPath>
-                <g
-   clip-path="url(#_clip55-2-3-1-5)"
-   id="g1841-5-7-4-8">
-                    <g
-   id="lines20-8-3-6-0"
-   class="lines">
-                        <path
-   d="m 2659.26,2529.69 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1835-3-1-4-0" />
-                        <path
-   d="m 2643.95,2663.03 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1836-2-5-3-1" />
-                        <path
-   d="m 2773.74,2644.17 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1837-6-6-8-3" />
-                        <path
-   d="m 2752.15,2771.23 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1838-8-5-0-6" />
-                        <path
-   d="m 2879.93,2750.35 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1839-5-0-6-0" />
-                        <path
-   d="m 2860.18,2879.27 -553.843,553.843"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1840-3-7-8-0" />
-                        <path
-   d="m 2988.44,2858.87 -553.844,553.844"
-   style="fill:none;stroke:#e6e8ec;stroke-width:40px;stroke-dasharray:4, 40, 8, 80"
-   id="path1841-2-6-5-8" />
-                    </g>
-                </g>
-            </g>
         </g>
     </g>
     <defs

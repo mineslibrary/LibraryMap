@@ -3454,7 +3454,7 @@
     <g
    class="floor"
    id="floor-1U"
-   style="display:none">
+   style="display:inline">
         <rect
    class="transition"
    x="0"
@@ -4741,7 +4741,7 @@
     <g
    class="floor"
    id="floor-2"
-   style="display:none">
+   style="display:inline">
         <rect
    id="white"
    x="46.269001"
@@ -7818,7 +7818,7 @@
     <g
    class="floor"
    id="floor-2U"
-   style="display:none">
+   style="display:inline">
         <rect
    id="transition1"
    class="transition"
@@ -9352,7 +9352,7 @@
     <g
    class="floor"
    id="floor-3"
-   style="display:none">
+   style="display:inline">
         <rect
    id="transition2"
    class="transition"

@@ -30,7 +30,7 @@
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g629" />
+   inkscape:current-layer="svg2091" />
     <g
    class="floor"
    id="floor-1">
@@ -3356,7 +3356,7 @@
     <g
    class="floor"
    id="floor-1U"
-   style="display:none">
+   style="display:inline">
         <rect
    class="transition"
    x="0"
@@ -4643,7 +4643,7 @@
     <g
    class="floor"
    id="floor-2"
-   style="display:none">
+   style="display:inline">
         <rect
    id="white"
    x="46.269001"
@@ -7720,7 +7720,7 @@
     <g
    class="floor"
    id="floor-2U"
-   style="display:none">
+   style="display:inline">
         <rect
    id="transition1"
    class="transition"
@@ -9254,7 +9254,7 @@
     <g
    class="floor"
    id="floor-3"
-   style="display:none">
+   style="display:inline">
         <rect
    id="transition2"
    class="transition"
